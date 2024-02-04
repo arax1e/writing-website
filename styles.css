@@ -132,6 +132,9 @@ iframe {
     .profilepage {
       display: grid;
     }
+    .profilepic{
+        max-width: 100%;
+    }
   }
 
 hr {
