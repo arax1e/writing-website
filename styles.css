@@ -122,6 +122,7 @@ iframe {
 .bio {
     text-align: justify;
     padding-left: 20px;
+    min-width: fit-content;
 }
 
 hr {
