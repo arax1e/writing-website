@@ -125,6 +125,16 @@ iframe {
     min-width: fit-content;
 }
 
+.profilepage {
+   height: auto; 
+}
+
+@media screen and (max-width: 992px) {
+    .profilepage {
+      display: grid;
+    }
+  }
+
 hr {
     border: none;
     height: 5px;
