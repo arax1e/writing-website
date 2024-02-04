@@ -133,7 +133,7 @@ iframe {
       display: grid;
     }
     .profilepic {
-        max-width: 100%;
+        max-width: 96%;
         align-content: center;
         margin-right: 0%;
         margin-left: 0%;
