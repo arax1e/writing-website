@@ -137,6 +137,7 @@ iframe {
         align-content: center;
         padding-left: 10%;
         margin-right: 0%;
+        float: auto;
     }
   }
 
