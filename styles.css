@@ -133,6 +133,7 @@ iframe {
 @media screen and (max-width: 992px) {
     .profilepage {
       display: grid;
+      transform: translateX(-3%);
     }
     .profilepic {
         max-width: 93%;
