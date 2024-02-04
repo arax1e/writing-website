@@ -77,7 +77,8 @@ header {
 article {
     padding: 20px;
     padding-top: 2%;
-    padding-bottom: 10%
+    padding-bottom: 10%;
+    height: 90%vh;
 }
 
 aside {
