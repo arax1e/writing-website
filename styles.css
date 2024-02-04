@@ -49,9 +49,9 @@ a:hover {
 }
 
 .ig {
-    max-width: 2%;
+    max-width: 3%;
     height: auto;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-right: 50px;
     float: right;
 }
@@ -116,6 +116,8 @@ iframe {
    border-style:solid;
    border-color:#000000;
   transform: translateY(15%);
+  padding-top: 20%;
+  padding-bottom: 20%;
 }
 
 .bio {
@@ -138,6 +140,29 @@ iframe {
         margin-right: 0%;
         margin-left: 0%;
         float: auto;
+    }
+    .grid {
+        display: inline;
+    }
+    .navbar-nav {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr;
+        transform: translateY(-50%);
+        border: none;
+        text-align: left;
+        padding: 0px; 
+    }
+    .portfolio {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+    .ig {
+        max-width: 8%;
+        transform: translateY(-50%);
+    }
+    .aside {
+        padding: 0;
     }
   }
 
