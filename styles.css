@@ -134,7 +134,7 @@ iframe {
     }
     .profilepic {
         max-width: 90%;
-        padding-left: 10%;
+        align-content: center;
     }
   }
 
