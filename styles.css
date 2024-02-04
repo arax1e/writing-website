@@ -131,9 +131,7 @@ iframe {
 @media screen and (max-width: 992px) {
     .profilepage {
       display: grid;
-    }
-    .profilepic{
-        max-width: 100%;
+      grid-template-rows: 1fr 1fr;
     }
   }
 
