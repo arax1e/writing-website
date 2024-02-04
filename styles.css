@@ -152,7 +152,7 @@ iframe {
         border: none;
         text-align: left;
         padding: 0px; 
-        font-size: 90%;
+        font-size: 80%;
     }
     .portfolio {
         grid-template-columns: 1fr;
